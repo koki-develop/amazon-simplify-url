@@ -3,6 +3,11 @@
   "name": "Amazon Simplify URL",
   "description": "Amazon SimplifyURL is a Chrome extension that automatically shortens Amazon product page URLs.",
   "version": "0.1.0",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
   "content_scripts": [
     {
       "js": [
